@@ -1,0 +1,10 @@
+# Internal working files (never publish)
+HANDOFF.md
+CLAIRE-AUDIT-ROUND*.md
+
+# Editor / OS artifacts
+.DS_Store
+.Rhistory
+*.swp
+.vscode/
+.idea/
