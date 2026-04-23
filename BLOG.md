@@ -41,8 +41,6 @@ At end of day I need to answer four questions:
 
 I tried answering all four at once and kept failing. Each output needs the previous one as input.
 
-[diagram/graphic]
-
 ## The pattern
 
 Four passes. One session of my personal agent. One drop file with four sections. Each pass writes its section and feeds the next.
@@ -78,8 +76,6 @@ flowchart TB
 
 Each output depends on the previous one. Drafting commits mid-inventory produces commits that miss items surfacing later. Writing the daily update before the manifest produces gaps, because the manifest is the checklist the narrative writes against. Writing the broadcast before the daily update produces a confident summary of an incomplete picture. The stable order is what buys the reliability.
 
-[diagram/graphic]
-
 ## What crosses, and what stays
 
 The hardest design question in a two-system setup is the wall.
@@ -89,8 +85,6 @@ The hardest design question in a two-system setup is the wall.
 **Stays in the personal layer:** email and message draft **content** ("sent to X" crosses; the draft text does not), pre-send marketing drafts, client-specific workflow detail, internal role-play scaffolding, effort-level audits, personal scratchpad.
 
 Without a written wall, drift is the default. With one, each pass has a test to apply.
-
-[diagram/graphic]
 
 ## Auth, and why the split matters
 
@@ -124,5 +118,3 @@ The repo at [katf167/four-pass-eod-pattern](https://github.com/katf167/four-pass
 The pattern generalizes beyond my setup. If you have a personal AI layer and a shared team knowledge base, you have the two-system problem. Four passes, in this order, has been the stable recipe.
 
 At [Atticus](https://www.atticusprojectai.org) we teach legal teams how to build their own version of this in our [1:1 coaching service](mailto:aicoach@atticusprojectai.org) and in our [AI Habits for Legal Professionals](https://maven.com/the-atticus-project/ai-habits-for-legal-professionals/) cohort on Maven.
-
-[diagram/graphic]
